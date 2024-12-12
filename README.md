@@ -11,5 +11,5 @@ I'm a passionate developer who loves solving problems with code.
 
 ## 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/anupam-tiwari-9ba332192/)
-- [Website/Portfolio]([https://www.sprinix.com](https://www.sprinix.com/pub/portfolio/anupam.html))
+- [Website/Portfolio](https://www.sprinix.com/pub/portfolio/anupam.html)
 
