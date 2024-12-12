@@ -1,4 +1,4 @@
-# Hello, I'm Anupam! 👋
+# Hello, I'm Anupam Tiwari! 👋
 I'm a passionate developer who loves solving problems with code.
 
 ## 🛠️ Technologies & Tools
