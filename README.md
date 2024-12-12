@@ -1,7 +1,7 @@
 # Hello, I'm Anupam Tiwari! 👋
 I'm a passionate developer who loves solving problems with code.
 
-# Technologies & Tools at Sprinix Technolabs Pvt. Ltd. ! (vishtwr01/(sprinix-logo1.png))
+# Technologies & Tools at Sprinix Technolabs Pvt. Ltd. !🖥️🚀
 
 Welcome to the repository of **Sprinix Technolabs Pvt. Ltd.**. Below is a comprehensive list of the key **technologies** and **tools** we use to develop cutting-edge solutions in the areas of **web development**, **mobile app development**, **cloud computing**, **AI/ML**, **e-commerce**, and more.
 
