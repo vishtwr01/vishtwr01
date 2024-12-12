@@ -40,39 +40,19 @@ Welcome to the repository of **Sprinix Technolabs Pvt. Ltd.**. Below is a compre
 - **Docker**
 - **Kubernetes**
 
-### CI/CD Tools:
-- **Jenkins**, **GitLab CI**, **CircleCI**, **Travis CI**
-
-### Infrastructure as Code:
-- **Terraform**, **Ansible**, **Chef**, **Puppet**
-
 ## 4. **E-commerce Platforms**
 - **Magento**: Robust e-commerce solution for large-scale stores.
 - **Shopify**: Cloud-based e-commerce platform for easy deployment.
 - **WooCommerce**: WordPress plugin for simple online stores.
 - **BigCommerce**: Comprehensive e-commerce platform for businesses of all sizes.
+- **HYVA**: A modern, performance-oriented front-end for Magento that provides faster load times and an improved user experience.
+- **Shopware**: Flexible and open-source e-commerce platform known for its scalability and customizability.
+- **Laravel**: Although primarily a PHP framework, Laravel can be used for building custom e-commerce solutions, offering flexibility and scalability for businesses.
 
 ## 5. **Data Science and Analytics**
 
 ### Languages:
-- **Python**, **R**
-
-### Libraries/Frameworks:
-- **Pandas**, **NumPy**, **TensorFlow**, **PyTorch**
-
-### Big Data Tools:
-- **Apache Hadoop**, **Apache Spark**
-
-### Data Visualization:
-- **Tableau**, **Power BI**, **D3.js**
-
-## 6. **Artificial Intelligence & Machine Learning**
-
-### Libraries:
-- **Scikit-learn**, **Keras**, **OpenCV**
-
-### AI Tools:
-- **Google AI**, **IBM Watson**, **Azure AI**
+- **Python**
 
 ## 7. **UX/UI Design**
 
