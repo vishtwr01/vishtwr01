@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, I'm Anupam! 👋
+I'm a passionate developer who loves solving problems with code.
 
-<!--
-**vishtwr01/vishtwr01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Technologies & Tools
+- Magento, Hyva, Shopify, Shopware
+- Git, Docker, AWS
+- SQL, MongoDB
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning
+- AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/anupam-tiwari-9ba332192/)
+- [Website/Portfolio](https://www.sprinix.com)
+
